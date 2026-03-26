@@ -7,7 +7,7 @@
 4. Allow new types of components to be relatively simply added. E.g., it's just up to your creativity.
 
 ## Example full cat trees
-![Full Cat Tree 1](images/Full-Tree1.jpg)
+![Full Cat Tree 1](Images/Full-Tree1.jpg)
 
 ## Basic initial components
 
