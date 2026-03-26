@@ -5,24 +5,43 @@
    E.g., you have additional components or want to replace a component or just want to give your cats something different.
 3. Allow the components to be built at home in your shop, or by vendors. 
 4. Allow new types of components to be relatively simply added. E.g., it's just up to your creativity.
+5. Not have to build an entire tree to have something your cat(s) will use and like. Big projects can be overwhelming. I prefer having a useful result at each stage. e.g., a single box component can be something your cat will like.
+6. Have an open plan, that you don't have to pay for.
 
-## Example full cat trees
+## Example full cat tree
 <img src="Images/Full-Tree1.jpg" alt="Full Cat Tree 1" width="300" >
+NOTE: The circular carpeted component isn't strictly speaking one of the modular components. It's just a piece from a more traditional cat tree that I bolted on. It should be no real problem, however, to make a circular carpeted component that is more standardized.
 
-## Basic initial components
+## Components
 
-The basic initial components are 
+### Connections
+Each component has standardized hole locations so you can bolt one component to various other components. The hole locations are given along with the components. Each hole is 1" in diameter.
 
-### 1' x 1' x 2' box
+### Basic components 
 
-### 1' x 1' x 1' box
+#### 1' x 1' x 2' box (outside dimensions)
+Hole locations: There are four holes. This is the view from the top and bottom of the box.
 
-### 1' scratching post
+<img src="Images/1x1x2-box-hole-locations.jpg" alt="1' x 1' x 2' box cube hole locations" width="300" >
 
-### 2' scratching post
+#### 1' x 1' x 1' box (outside dimensions)
+Hole locations: There are two holes. This is the view from the top and bottom of the box.
 
-### 2' x 2' base
+<img src="Images/1x1x1-box-hole-locations.jpg" alt="1' x 1' x 1' box hole locations" width="300" >
+
+#### 1' scratching post
+
+#### 2' scratching post
+
+#### 2' x 2' base
+Hole locations: There are four holes. This is the view from the top (or bottom).
+
+<img src="Images/2x2-base-hole-dimensions.jpg" alt="Base hole locations" width="300" >
+
+I used approx. 3/4" thick material for the base, and attached further 3/4" legs to that to avoid the bolts scraping the floor.
 
 ## Further plans
 
-I plan to create an iOS AR (Augmented Reality app) to let you see how specific components will look in your home before you build them or build them.
+1. I plan to create an iOS (iPad and iPhone) AR (Augmented Reality app) to let you see how specific components will look in your home before you build them or build them.
+
+2. I'll try to add more detail they the above plans. They're a bit slim so far.
