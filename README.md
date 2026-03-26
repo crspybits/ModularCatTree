@@ -6,6 +6,9 @@
 3. Allow the components to be built at home in your shop, or by vendors. 
 4. Allow new types of components to be relatively simply added. E.g., it's just up to your creativity.
 
+## Example full cat trees
+![Full Cat Tree 1](images/Full-Tree1.jpg)
+
 ## Basic initial components
 
 The basic initial components are 
