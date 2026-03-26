@@ -31,7 +31,11 @@ Hole locations: There are two holes. This is the view from the top and bottom of
 
 #### 1' scratching post
 
+This is a 1' long wood dowel with a diameter of about 2.5", wrapped in sisal. I used a hot glue gun to stick the sisal to the dowel. The bolts on either end are hanger bolts, which have a regular threaded bolt on one end and a wood screw on the other end.
+
 #### 2' scratching post
+
+This is a 2' long wood dowel with a diameter of about 2.5", wrapped in sisal. I used a hot glue gun to stick the sisal to the dowel. The bolts on either end are hanger bolts, which have a regular threaded bolt on one end and a wood screw on the other end.
 
 #### 2' x 2' base
 Hole locations: There are four holes. This is the view from the top (or bottom).
@@ -42,6 +46,6 @@ I used approx. 3/4" thick material for the base, and attached further 3/4" legs 
 
 ## Further plans
 
-1. I plan to create an iOS (iPad and iPhone) AR (Augmented Reality app) to let you see how specific components will look in your home before you build them or build them.
+1. An iOS (iPad and iPhone) AR (Augmented Reality app) to let you see how specific components will look in your home before you build them or build them.
 
-2. I'll try to add more detail they the above plans. They're a bit slim so far.
+2. Add more detail to the above plans. They're a bit slim so far.
