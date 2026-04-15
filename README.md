@@ -8,7 +8,7 @@
 5. Not have to build an entire tree to have something your cat(s) will use and like. Big projects can be overwhelming. I prefer having a useful result at each stage. e.g., a single box component can be something your cat will like.
 6. Have an open plan, that you don't have to pay for.
 
-| **Example full cat trees** |
+| **Example full cat trees** | |
 |---|---|
 | <img src="Images/Full-Tree1.jpg" alt="Full Cat Tree 1" width="300" > | <img src="Images/Full-Tree2.jpg" alt="Full Cat Tree 2" width="300" > |
 
