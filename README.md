@@ -8,8 +8,9 @@
 5. Not have to build an entire tree to have something your cat(s) will use and like. Big projects can be overwhelming. I prefer having a useful result at each stage. e.g., a single box component can be something your cat will like.
 6. Have an open plan, that you don't have to pay for.
 
-## Example full cat tree
+## Example full cat trees
 <img src="Images/Full-Tree1.jpg" alt="Full Cat Tree 1" width="300" >
+<img src="Images/Full-Tree2.jpg" alt="Full Cat Tree 2" width="300" >
 NOTE: The circular carpeted component isn't strictly speaking one of the modular components. It's just a piece from a more traditional cat tree that I bolted on. It should be no real problem, however, to make a circular carpeted component that is more standardized.
 
 ## Components
@@ -44,8 +45,11 @@ Hole locations: There are four holes. This is the view from the top (or bottom).
 
 I used approx. 3/4" thick material for the base, and attached further 3/4" legs to that to avoid the bolts scraping the floor.
 
+## In progress work
+
+* An iOS (iPad, iPhone) and visionOS AR (Augmented Reality app) to let you see how specific components will look in your home before you build them or build them. The Github repo for this project is private, but here's a glimpse of what a tree looks like so far:
+<img src="Images/AR-Cat-Tree1.jpg" alt="AR Cat Tree 1" width="300" >
+
 ## Further plans
 
-1. An iOS (iPad and iPhone) AR (Augmented Reality app) to let you see how specific components will look in your home before you build them or build them.
-
-2. Add more detail to the above plans. They're a bit slim so far.
+* Add more detail to the above plans. They're a bit slim so far.
