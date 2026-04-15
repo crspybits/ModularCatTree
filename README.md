@@ -9,8 +9,11 @@
 6. Have an open plan, that you don't have to pay for.
 
 ## Example full cat trees
-<img src="Images/Full-Tree1.jpg" alt="Full Cat Tree 1" width="300" >
-<img src="Images/Full-Tree2.jpg" alt="Full Cat Tree 2" width="300" >
+
+| | |
+|---|---|
+| <img src="Images/Full-Tree1.jpg" alt="Full Cat Tree 1" width="300" > | <img src="Images/Full-Tree2.jpg" alt="Full Cat Tree 2" width="300" > |
+
 NOTE: The circular carpeted component isn't strictly speaking one of the modular components. It's just a piece from a more traditional cat tree that I bolted on. It should be no real problem, however, to make a circular carpeted component that is more standardized.
 
 ## Components
